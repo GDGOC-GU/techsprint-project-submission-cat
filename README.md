@@ -1,0 +1,28 @@
+# 🚀 Welcome to [Hackathon Name]!
+
+Welcome, team! This repository is your home base for the hackathon. 
+Only your team members and the judges have access to this code.
+
+## 👥 Team Details
+**Team Name:** [Edit this and write your Team Name]
+
+| Name | Role | GitHub Username |
+| :--- | :--- | :--- |
+| Member 1 | (e.g., Frontend) | @username |
+| Member 2 | (e.g., Backend) | @username |
+| Member 3 | (e.g., Design) | @username |
+| Member 4 | (e.g., Testing) | @username |
+
+---
+
+## 💡 Project Description
+*Replace this text with a brief description of your project. What problem are you solving? What is your solution?*
+
+---
+
+## 🛠️ How to Run the Project
+*Instructions for the judges on how to run your code locally.*
+
+1. **Clone the repo:**
+   ```bash
+   git clone [YOUR_REPO_LINK_HERE]
